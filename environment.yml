@@ -25,4 +25,6 @@ dependencies:
       - jupyter-client==8.8.0
       - jupyter-core==5.9.1
       - matplotlib==3.10.9
+      - scipy==1.16.3
+      - scikit-learn==1.8.0
 
